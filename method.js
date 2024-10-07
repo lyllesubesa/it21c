@@ -37,7 +37,7 @@ class Person {
 }
 
 // Create an instance of Person
-const person1 = new Person("Elay", 19, "Male");
+const person1 = new Person("Elay", 20, "Male");
 
 //Calls the method
 person1.displayInfo();
